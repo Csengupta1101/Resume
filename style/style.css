@@ -1,0 +1,15 @@
+h1{
+    font-family: 'Young Serif', serif;
+    text-align: center;
+    color:blueviolet;
+
+    }
+body{
+    background-image: url("..\images\Bg.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+    
+}
+hr{
+    border-top: 3px solid blueviolet ;
+}
